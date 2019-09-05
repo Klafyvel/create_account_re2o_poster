@@ -5,6 +5,7 @@
 \SetupKeyvalOptions{prefix=re@}
 \DeclareStringOption{color}[cf0f23]
 \DeclareStringOption{size}[12pt]
+\DeclareStringOption{logo}[logo.png]
 \ProcessKeyvalOptions*
 \PassOptionsToClass{\re@size}{article}
 \LoadClass[a4paper]{article}
@@ -40,7 +41,7 @@ angle=0,
 placement=top,
 vshift=1.9cm,
 contents={%
-  \includegraphics[width=\paperwidth]{logo.png}
+  \includegraphics[width=\paperwidth]{\re@logo}
   }%
 }
 
