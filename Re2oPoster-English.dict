@@ -1,0 +1,81 @@
+\providetranslation
+{Poster Title}
+{Create an account for the WiFi}
+
+\providetranslation
+{connect}
+{Connect to the \link{\thewifi} WiFi}
+
+\providetranslation
+{go to intranet}
+{Go to \link{\theintranet} or flash this QR Code}
+
+\providetranslation
+{if don't have an account}
+{If you don't have an account yet :
+        \begin{enumerate}
+            \item Click on 'Sign In';
+            \item Do what the website tells you to do.
+        \end{enumerate}}
+
+\providetranslation
+{if have an account}
+{If you have an account, click on 'Log In', then log in}
+
+\providetranslation
+{go to your user page}
+{Go to your user page}
+
+\providetranslation
+{is active}
+{Your account is active !}
+
+\providetranslation
+{is not active}
+{Your account is not active. Click on 'Pay a connection'.}
+
+\providetranslation
+{pay}
+{Pay a connection (if you need it)}
+
+\providetranslation
+{select pay}
+{Select the payment method}
+
+\providetranslation
+{select article}
+{Select your articles. As an example if I stay 3 months, I select 'Abonnement 1 mois' and display '3' in the spin box.}
+
+\providetranslation
+{click}
+{Click on confirm and follow the website.}
+
+\providetranslation
+{you can}
+{You can use the WiFi ! 
+
+Go to \link{\thewebsite} if you don't know how to connect.}
+
+\providetranslation
+{p2p}
+{No illegal peer-to-peer}
+
+\providetranslation
+{law}
+{Respect the law}
+
+\providetranslation
+{share}
+{Don't share your account}
+
+\providetranslation
+{enjoy}
+{Enjoy your internet}
+
+\providetranslation
+{issue}
+{An issue ?}
+
+\providetranslation
+{mail}
+{Or e-mail us}

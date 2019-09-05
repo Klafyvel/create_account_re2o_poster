@@ -1,0 +1,81 @@
+\providetranslation
+{Poster Title}
+{Créer un compte pour le WiFi}
+
+\providetranslation
+{connect}
+{Se connecter au WiFi \link{\thewifi}}
+
+\providetranslation
+{go to intranet}
+{Allez sur \link{\theintranet} ou flashez ce QR Code}
+
+\providetranslation
+{if don't have an account}
+{Si vous n'avez pas encore de compte :
+        \begin{enumerate}
+            \item Cliquer sur 'S'inscrire';
+            \item Suivre les instructions du site web.
+        \end{enumerate}}
+
+\providetranslation
+{if have an account}
+{Si vous avez un compte, cliquez sur 'Se connecter', puis connectez-vous.}
+
+\providetranslation
+{go to your user page}
+{Allez sur votre page utilisateur}
+
+\providetranslation
+{is active}
+{Votre compte est actif !}
+
+\providetranslation
+{is not active}
+{Votre compte n'est pas actif. Cliquez sur 'Payer une connexion'.}
+
+\providetranslation
+{pay}
+{Payez une connexion (si besoin)}
+
+\providetranslation
+{select pay}
+{Sélectionnez une méthode de paiement}
+
+\providetranslation
+{select article}
+{Sélectionnez vos articles. Par exemple, si je reste 3 mois, je sélectionne 'Abonnement 1 mois' et affiche '3' dans la spin box.}
+
+\providetranslation
+{click}
+{Cliquez sur 'confirmer' et suivez les instructions du site web.}
+
+\providetranslation
+{you can}
+{Vous pouvez utiliser le WiFi ! 
+
+Allez sur \link{\thewebsite} si vous ne savez pas comment vous y connecter.}
+
+\providetranslation
+{p2p}
+{Pas de téléchargement illégal}
+
+\providetranslation
+{law}
+{Respectez la loi}
+
+\providetranslation
+{share}
+{Ne partagez pas votre compte}
+
+\providetranslation
+{enjoy}
+{Profitez d'internet}
+
+\providetranslation
+{issue}
+{Un problème ?}
+
+\providetranslation
+{mail}
+{Ou envoyez-nous un email}
