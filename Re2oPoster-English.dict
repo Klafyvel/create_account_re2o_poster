@@ -12,7 +12,7 @@
 
 \providetranslation
 {if don't have an account}
-{If you don't have an account yet :
+{If you don't have an account yet:
         \begin{enumerate}
             \item Click on 'Sign In';
             \item Do what the website tells you to do.
@@ -28,7 +28,7 @@
 
 \providetranslation
 {is active}
-{Your account is active !}
+{Your account is active!}
 
 \providetranslation
 {is not active}
@@ -52,7 +52,7 @@
 
 \providetranslation
 {you can}
-{You can use the WiFi ! 
+{You can use the WiFi!
 
 Go to \link{\thewebsite} if you don't know how to connect.}
 
@@ -74,7 +74,7 @@ Go to \link{\thewebsite} if you don't know how to connect.}
 
 \providetranslation
 {issue}
-{An issue ?}
+{An issue?}
 
 \providetranslation
 {mail}
